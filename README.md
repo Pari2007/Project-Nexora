@@ -103,3 +103,8 @@ In accordance with banking standards, the prototype demonstrates PII (Personally
 5. **Accept** the offer to receive a real-time SMS.
 6. Toggle **"Show system interaction logs"** at the bottom to view the data audit trail.
 7. Ask Nexora (Smart Chat) about any questions related to Loans, Insurance and Investment.
+
+## 5.Demo Video
+(https://www.youtube.com/watch?v=uzGtPGJBEXQ)
+
+
