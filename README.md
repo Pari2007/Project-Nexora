@@ -105,6 +105,6 @@ In accordance with banking standards, the prototype demonstrates PII (Personally
 7. Ask Nexora (Smart Chat) about any questions related to Loans, Insurance and Investment.
 
 ## 5.Demo Video
-(https://www.youtube.com/watch?v=uzGtPGJBEXQ)
+(https://www.youtube.com/watch?v=r3iQa_GfqzE)
 
 
