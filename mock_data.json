@@ -1,0 +1,81 @@
+
+
+[
+  {
+    "user_id": "USR_001",
+    "historic_data": {
+      "avg_monthly_income": 8500,
+      "liabilities": [
+        "Mortgage: $450k",
+        "Car Loan: $15k"
+      ],
+      "dependents": 2,
+      "top_expense_categories": [
+        "Groceries",
+        "Education",
+        "Utilities"
+      ]
+    },
+    "risk_profiling": {
+      "tolerance": "Low",
+      "requirement": "Capital Preservation",
+      "capacity": "High (Stable Income)"
+    },
+    "questionnaire": {
+      "goals": "Children's University Fund",
+      "time_horizon": "10 years",
+      "wants": "Automated savings",
+      "comfort_level": 3
+    }
+  },
+  {
+    "user_id": "USR_002",
+    "historic_data": {
+      "avg_monthly_income": 12000,
+      "liabilities": [],
+      "dependents": 0,
+      "top_expense_categories": [
+        "Luxury Retail",
+        "Travel",
+        "Dining"
+      ]
+    },
+    "risk_profiling": {
+      "tolerance": "High",
+      "requirement": "Aggressive Growth",
+      "capacity": "Very High"
+    },
+    "questionnaire": {
+      "goals": "Early Retirement ",
+      "time_horizon": "20 years",
+      "wants": "Crypto/Equity exposure",
+      "comfort_level": 9
+    }
+  },
+  {
+    "user_id": "USR_003",
+    "historic_data": {
+      "avg_monthly_income": 5500,
+      "liabilities": [
+        "Student Loan: $25k"
+      ],
+      "dependents": 0,
+      "top_expense_categories": [
+        "Rent",
+        "Entertainment",
+        "Technology"
+      ]
+    },
+    "risk_profiling": {
+      "tolerance": "Medium",
+      "requirement": "Balanced Growth",
+      "capacity": "Medium"
+    },
+    "questionnaire": {
+      "goals": "First Home Purchase",
+      "time_horizon": "5 years",
+      "wants": "Balanced portfolio",
+      "comfort_level": 6
+    }
+  }
+]
