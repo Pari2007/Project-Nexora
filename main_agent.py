@@ -4,8 +4,8 @@ from google import genai
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_chroma import Chroma
 
-# Setup a Gemini Client
-client = genai.Client(api_key="AIzaSyBKdJ685Etmj8RC9cjMHlfY0wnNQS75qcU")
+# Setup a Gemini Client(cannot provide API Key due to publically accessible github repository)
+client = genai.Client(api_key="YOUR_API_KEY")
 MODEL_ID = "gemini-2.5-flash"
 
 # Connecting to the existing Knowledge Base (ChromaDB)
