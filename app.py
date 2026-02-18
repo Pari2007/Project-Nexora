@@ -7,10 +7,10 @@ from google import genai
 from main_agent import get_recommendation,client, MODEL_ID, vector_db 
 
 # CONFIGURATION & SETUP of TWILIO Notification Service (cannot provide SID, Token and Service SID on github public repository)
-TWILIO_SID = 'AC4c35d7ebfec5d5fedb95c4976f6d9543'
-TWILIO_TOKEN = '1989d9be501bd58dffa808f2bf673c38'
-TWILIO_SERVICE_S=ID = 'MGb19ac0a6c525029c78c2897e1ecd98df'
-TARGET_PHONE = '+917021126833'
+TWILIO_SID = 'YOUR_SID'
+TWILIO_TOKEN = 'YOUR_TOKEN'
+TWILIO_SERVICE_SID = 'YOUR_SERVICE_SID'
+TARGET_PHONE = 'PHONE NUMBER'
 LOG_FILE = 'interaction_logs.csv'
 
 # Initializing CSV for tracking integration
